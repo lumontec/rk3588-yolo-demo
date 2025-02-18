@@ -12,7 +12,7 @@ include_directories(include)
 
 add_subdirectory(utils)
 
-find_package(OpenCV REQUIRED)
+find_package(OpenCV 4.11 REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 find_package(kaylordut REQUIRED)
 find_package(bytetrack REQUIRED)
