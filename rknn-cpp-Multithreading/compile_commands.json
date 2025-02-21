@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/radxa/Documents/rknn-cpp-Multithreading/build/build_linux_aarch64",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/radxa/Documents/rknn-cpp-Multithreading/../../runtime/RK3588/Linux/librknn_api/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty/rga/RK3588/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include -isystem /usr/local/include/opencv4 -pthread -std=gnu++14 -o CMakeFiles/rknn_yolov5_demo.dir/src/main.cc.o -c /home/radxa/Documents/rknn-cpp-Multithreading/src/main.cc",
+  "file": "/home/radxa/Documents/rknn-cpp-Multithreading/src/main.cc"
+},
+{
+  "directory": "/home/radxa/Documents/rknn-cpp-Multithreading/build/build_linux_aarch64",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/radxa/Documents/rknn-cpp-Multithreading/../../runtime/RK3588/Linux/librknn_api/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty/rga/RK3588/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include -isystem /usr/local/include/opencv4 -pthread -std=gnu++14 -o CMakeFiles/rknn_yolov5_demo.dir/src/postprocess.cc.o -c /home/radxa/Documents/rknn-cpp-Multithreading/src/postprocess.cc",
+  "file": "/home/radxa/Documents/rknn-cpp-Multithreading/src/postprocess.cc"
+},
+{
+  "directory": "/home/radxa/Documents/rknn-cpp-Multithreading/build/build_linux_aarch64",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/radxa/Documents/rknn-cpp-Multithreading/../../runtime/RK3588/Linux/librknn_api/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty/rga/RK3588/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include -isystem /usr/local/include/opencv4 -pthread -std=gnu++14 -o CMakeFiles/rknn_yolov5_demo.dir/src/preprocess.cc.o -c /home/radxa/Documents/rknn-cpp-Multithreading/src/preprocess.cc",
+  "file": "/home/radxa/Documents/rknn-cpp-Multithreading/src/preprocess.cc"
+},
+{
+  "directory": "/home/radxa/Documents/rknn-cpp-Multithreading/build/build_linux_aarch64",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/radxa/Documents/rknn-cpp-Multithreading/../../runtime/RK3588/Linux/librknn_api/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty -I/home/radxa/Documents/rknn-cpp-Multithreading/include/3rdparty/rga/RK3588/include -I/home/radxa/Documents/rknn-cpp-Multithreading/include -isystem /usr/local/include/opencv4 -pthread -std=gnu++14 -o CMakeFiles/rknn_yolov5_demo.dir/src/rkYolov5s.cc.o -c /home/radxa/Documents/rknn-cpp-Multithreading/src/rkYolov5s.cc",
+  "file": "/home/radxa/Documents/rknn-cpp-Multithreading/src/rkYolov5s.cc"
+}
+]
